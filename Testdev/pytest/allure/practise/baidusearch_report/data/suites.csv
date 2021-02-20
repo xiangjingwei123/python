@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Feb 07 11:06:06 CST 2021","Sun Feb 07 11:06:19 CST 2021","12934","","test_baidusearch","","","","test_steps_case[unnitest]",""
+"passed","Sun Feb 07 11:05:40 CST 2021","Sun Feb 07 11:05:53 CST 2021","12968","","test_baidusearch","","","","test_steps_case[allure]",""
+"passed","Sun Feb 07 11:05:53 CST 2021","Sun Feb 07 11:06:06 CST 2021","12953","","test_baidusearch","","","","test_steps_case[pytest]",""

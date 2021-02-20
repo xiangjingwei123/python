@@ -1,0 +1,1 @@
+{"uuid": "3c7f3591-9152-4ea0-a5ab-adabd0da3424", "children": ["cda61ae9-d48a-40fc-9cfd-b2ad905cbd80"], "befores": [{"name": "Test_search", "status": "passed", "steps": [{"name": "前置条件：测试打开浏览器功能", "status": "passed", "start": 1612407384734, "stop": 1612407384735}], "start": 1612407384734, "stop": 1612407384735}], "start": 1612407384734, "stop": 1612407384736}

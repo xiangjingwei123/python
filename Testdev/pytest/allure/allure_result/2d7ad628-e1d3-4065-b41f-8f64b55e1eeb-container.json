@@ -1,0 +1,1 @@
+{"uuid": "9fb5b626-ff96-482a-b517-4f6f37885bc0", "children": ["75e3020b-fe28-4fcf-b202-eb351167c4bc"], "befores": [{"name": "baidu_search", "status": "passed", "steps": [{"name": "前置条件：测试打开浏览器功能", "status": "passed", "start": 1612316957613, "stop": 1612316957613}], "start": 1612316957613, "stop": 1612316957614}], "start": 1612316957613, "stop": 1612316957631}

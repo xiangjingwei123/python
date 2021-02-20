@@ -1,0 +1,44 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_steps_case[allure]",
+    "uid" : "eccb43b77b3c2a7c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612667140701,
+      "stop" : 1612667153669,
+      "duration" : 12968
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'allure'" ]
+  }, {
+    "name" : "test_steps_case[pytest]",
+    "uid" : "ceed5628f786667c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612667153672,
+      "stop" : 1612667166625,
+      "duration" : 12953
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'pytest'" ]
+  }, {
+    "name" : "test_steps_case[unnitest]",
+    "uid" : "8bf03441ed9b1680",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612667166629,
+      "stop" : 1612667179563,
+      "duration" : 12934
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'unnitest'" ]
+  } ]
+}
